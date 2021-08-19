@@ -1,12 +1,10 @@
 <template>
-<div>
-
-</div>
+    <div>Hello from Home Component</div>
 </template>
 
 <script>
 export default {
-    name: "App"
+    name: "Home"
 }
 </script>
 
